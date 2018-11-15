@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JSONP-A/JSONP-A.iml" filepath="$PROJECT_DIR$/JSONP-A/JSONP-A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSONP-AB.iml" filepath="$PROJECT_DIR$/JSONP-AB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSONP-B/JSONP-B.iml" filepath="$PROJECT_DIR$/JSONP-B/JSONP-B.iml" />
+    </modules>
+  </component>
+</project>
